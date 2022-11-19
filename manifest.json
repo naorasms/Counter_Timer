@@ -1,0 +1,11 @@
+{
+    "name": "Counter Time",
+    "version": "1.0.0",
+    "description": "Counter Time For Houres",
+    "manifest_version": 3,
+    "author": "Naoras Masalmah",
+    "action":{
+        "default_popup": "counter.html",
+        "default_title": "Counter Time"
+    }
+}
